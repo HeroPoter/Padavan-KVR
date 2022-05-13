@@ -32,3 +32,6 @@ wifi密码
 **最近的更新代码都来自于hanwckf和MelsReallyBa大佬的4.4内核代码**
 - https://github.com/hanwckf/padavan-4.4
 - https://github.com/MeIsReallyBa/padavan-4.4
+
+=一些参考
+http://www.javashuo.com/article/p-yosqskdi-go.html
